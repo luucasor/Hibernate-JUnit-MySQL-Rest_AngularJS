@@ -1,0 +1,4 @@
+br/com/luucasor/util/Hibernate.class
+br/com/luucasor/dao/NodeDao.class
+br/com/luucasor/model/Node.class
+br/com/luucasor/resources/Tree.class
